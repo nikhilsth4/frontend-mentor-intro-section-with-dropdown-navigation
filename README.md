@@ -32,7 +32,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://github.com/nikhilsth4/frontend-mentor-intro-section-with-dropdown-navigation)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://intro-dropdown-f.netlify.app/)
 
 ## My process
 
