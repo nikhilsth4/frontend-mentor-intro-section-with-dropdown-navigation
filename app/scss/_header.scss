@@ -51,7 +51,9 @@
       justify-content: space-between;
     }
 
-    & > div {
+    ul {
+      list-style: none;
+      padding: 0;
       flex-direction: column;
       gap: 3rem;
       @include breakpoint-up(large) {
